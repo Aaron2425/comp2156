@@ -12,7 +12,8 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-"homepage": "https://Aaron2425.github.io/comp2156"  "scripts": {
+"homepage": "https://Aaron2425.github.io/comp2156",
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
